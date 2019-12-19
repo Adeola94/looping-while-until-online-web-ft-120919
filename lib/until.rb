@@ -6,4 +6,4 @@ loop do
     if levitation_force >= 6
     break 
 end
-
+end 
